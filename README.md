@@ -1,25 +1,15 @@
-# formwork &emsp; [![Build Status]][actions] [![Latest Version]][crates.io]
+# hdfspp-sys &emsp; [![Build Status]][actions] [![Latest Version]][crates.io]
 
-[Build Status]: https://img.shields.io/github/workflow/status/Xuanwo/formwork/CI/main
-[actions]: https://github.com/Xuanwo/formwork/actions?query=branch%3Amain
-[Latest Version]: https://img.shields.io/crates/v/formwork.svg
-[crates.io]: https://crates.io/crates/formwork
+[Build Status]: https://img.shields.io/github/actions/workflow/status/Xuanwo/hdfspp-sys/ci.yml
+[actions]: https://github.com/Xuanwo/hdfspp-sys/actions?query=branch%3Amain
+[Latest Version]: https://img.shields.io/crates/v/hdfspp-sys.svg
+[crates.io]: https://crates.io/crates/hdfspp-sys
 
-`formwork` is my favourite rust template.
-
-> Please replace with valid value.
+`hdfspp-sys` the rust binding for [hdfspp](https://github.com/HarshitGupta11/hadoop/tree/trunk/hadoop-hdfs-project/hadoop-hdfs-native-client/src/main/native/libhdfspp: a modern implementation of HDFS client in C++11 that is designed for the Massive Parallel Processing (MPP) applications.
 
 ## Quick Start
 
-Replace all placeholder with valid values, for example:
-
-- `Xuanwo` => github login
-- `github@xuanwo.io` => email
-- `formwork` => crate name
-
-```rust
-// Replace with quick Start here
-```
+TODO
 
 ## Contributing
 
@@ -27,7 +17,7 @@ Check out the [CONTRIBUTING.md](./CONTRIBUTING.md) guide for more details on get
 
 ## Getting help
 
-Submit [issues](https://github.com/Xuanwo/formwork/issues/new/choose) for bug report or asking questions in [discussion](https://github.com/Xuanwo/formwork/discussions/new?category=q-a).
+Submit [issues](https://github.com/Xuanwo/hdfspp-sys/issues/new/choose) for bug report or asking questions in [discussion](https://github.com/Xuanwo/hdfspp-sys/discussions/new?category=q-a).
 
 #### License
 

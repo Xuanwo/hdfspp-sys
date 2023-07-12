@@ -5,7 +5,7 @@
 [Latest Version]: https://img.shields.io/crates/v/hdfspp-sys.svg
 [crates.io]: https://crates.io/crates/hdfspp-sys
 
-`hdfspp-sys` the rust binding for [hdfspp](https://github.com/HarshitGupta11/hadoop/tree/trunk/hadoop-hdfs-project/hadoop-hdfs-native-client/src/main/native/libhdfspp: a modern implementation of HDFS client in C++11 that is designed for the Massive Parallel Processing (MPP) applications.
+`hdfspp-sys` the rust binding for [hdfspp](https://github.com/HarshitGupta11/hadoop/tree/trunk/hadoop-hdfs-project/hadoop-hdfs-native-client/src/main/native/libhdfspp): a modern implementation of HDFS client in C++11 that is designed for the Massive Parallel Processing (MPP) applications.
 
 ## Quick Start
 
